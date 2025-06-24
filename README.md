@@ -24,3 +24,29 @@ CSS3
 
 JavaScript (p5.js)
 
+🚀 Como rodar o projeto localmente
+Clone o repositório:
+
+bash
+Copiar
+Editar
+git clone 
+Abra o arquivo index.html no navegador.
+
+🌐 Deploy sugerido
+GitHub Pages
+
+Netlify
+
+Vercel
+
+💡 Possíveis melhorias futuras
+Efeitos sonoros e música de fundo
+
+Ranking de pontuação
+
+Avatar customizado do jogador
+
+Tema claro/escuro
+
+Versão mobile com toque na tela

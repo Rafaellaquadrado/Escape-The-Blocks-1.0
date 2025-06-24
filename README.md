@@ -1,30 +1,26 @@
 # Escape-The-Blocks
 # Jogo de Desvio
+## Escape The Blocks 🎮
+Um jogo simples e dinâmico de desviar blocos. Feito em HTML5, JavaScript e p5.js.
 
-💡 Ideia
-O jogador controla um quadrado (ou personagem simples) que deve desviar de blocos que caem do topo da tela.
-Quanto mais tempo sobreviver, mais rápido os blocos caem.
-É simples, dinâmico, visual e bom para demonstrar lógica de jogo.
+🔥 Demonstração
+(Adicione aqui o link depois que você hospedar — por ex: GitHub Pages ou Netlify)
 
-🔧 Tecnologias usadas
-HTML5 + CSS + JavaScript (Canvas API)
+🎯 Objetivo do Jogo
+Use as setas ← → para mover o jogador.
 
-Ou p5.js (torna muito mais fácil trabalhar com gráficos e animações)
+Desvie dos blocos vermelhos que caem.
 
-🎮 Mecânica básica
-Jogador move para esquerda e direita com setas (ou A e D)
+Sobreviva o maior tempo possível.
 
-Blocos descem em velocidade crescente
+A cada 10 blocos desviados, a velocidade aumenta.
 
-Pontuação baseada em tempo sobrevivido
+Quando colidir com um bloco: Game Over.
 
-Se colidir com um bloco, Game Over
+🛠 Tecnologias Utilizadas
+HTML5
 
-Sons de colisão e efeitos visuais
+CSS3
 
-🖥 Telas
-Tela inicial: nome do jogo, botão "Jogar"
+JavaScript (p5.js)
 
-Jogo rodando: player e blocos descendo
-
-Tela de game over: pontuação e botão de reiniciar

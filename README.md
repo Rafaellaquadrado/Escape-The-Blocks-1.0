@@ -4,7 +4,7 @@
 Um jogo simples e dinâmico de desviar blocos. Feito em HTML5, JavaScript e p5.js.
 
 🔥 Demonstração
-(Adicione aqui o link depois que você hospedar — por ex: GitHub Pages ou Netlify)
+(https://rafaellaquadrado.github.io/Escape-The-Blocks-1.0/)
 
 🎯 Objetivo do Jogo
 Use as setas ← → para mover o jogador.

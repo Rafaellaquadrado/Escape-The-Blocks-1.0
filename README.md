@@ -25,7 +25,7 @@ CSS3
 JavaScript (p5.js)
 
 🚀 Como rodar o projeto localmente
-Clone o repositório:
+Clone o repositório: https://github.com/Rafaellaquadrado/Escape-The-Blocks-1.0.git
 
 bash
 Copiar
